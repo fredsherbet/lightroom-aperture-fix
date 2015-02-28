@@ -1,6 +1,6 @@
 # Tweak naming after Aperture import to Lightroom
 
-After using Adobe's Aperture importer, you'll find all your Aperture projects have become Collection Sets in Lightroom, with a collection called 'Project Photos'.
+After using [Adobe's Aperture importer](http://blogs.adobe.com/lightroomjournal/2014/10/aperture-import-plugin-now-available.html), you'll find all your Aperture projects have become Collection Sets in Lightroom, with a collection called 'Project Photos'.
 
 Fair enough... but then when you sync them all to Lightroom Mobile, all the collections you see on your iPhone/iPad are called 'Project Photos'. Hardly helpful!
 
