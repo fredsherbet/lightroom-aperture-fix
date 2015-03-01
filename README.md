@@ -30,3 +30,7 @@ If you already have Lightroom running, restart it, otherwise just start it. You 
 ### Windows
 
 How have you even imported from Aperture?!
+
+# Add collection dates
+
+There's an bonus script in this project - one to add the capture yyyy-mm to collection names. I'm hoping this is a stopgap because surely Adobe will add some more sorting options for Lightroom on iPhone/iPad soon???
